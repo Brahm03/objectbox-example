@@ -14,6 +14,9 @@ class ObjectBox {
     return ObjectBox._init(store);
   }
 
+  Users? getusers(int id) => _userbox.get(id);
 
-  
+  int insertUsers(Users users) => _userbox.put(users);
+
+  bool delateUser(int id) => _userbox.remove(id);
 }
