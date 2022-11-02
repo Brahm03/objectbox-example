@@ -1,16 +1,5 @@
 # objectboxapp
 
-A new Flutter project.
+<h2>Object box using example</h2>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="505" alt="Screenshot 2022-11-02 at 15 30 40" src="https://user-images.githubusercontent.com/96195451/199467345-d9419972-c2d5-48c0-8f85-25d2883a9cd8.png">
